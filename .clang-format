@@ -1,0 +1,8 @@
+---
+BasedOnStyle:      GNU
+IndentWidth:       4
+UseTab:            ForContinuationAndIndentation
+TabWidth:          4
+SpaceBeforeParens: ControlStatements
+BreakBeforeBraces: Mozilla
+PointerAlignment:  Left
